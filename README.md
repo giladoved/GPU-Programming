@@ -1,5 +1,5 @@
 # Udacity - CS 344 Intro to Parallel Computing
 
-This course is awesome, I highly recommend it! I'm just saving the homework assignments I complete for this class because I think they are really cool.
+My implementations are in the student_func.cu files. The rest was built completely by the Udacity team and I take no credit for.
 
-https://www.udacity.com/course/intro-to-parallel-programming--cs344
+This course is awesome, I highly recommend it! I'm saving some of the homework assignments for this class because I think they are really cool. Here's a [link to the course](https://www.udacity.com/course/intro-to-parallel-programming--cs344) if interested in parallel programming.
